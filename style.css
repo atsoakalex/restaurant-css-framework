@@ -99,24 +99,21 @@ img{
     
        
 }
-.originality{
+.title{
+    color: goldenrod;
+    
+}
+p{
+    
     color: #fff;
-    border: goldenrod 1px;
+}
+.cover{
+    background: url(./image/bandeau.png) no-repeat;
 }
 
+.container small{
+    margin: auto;
+    padding: 20px;
+    max-width: 1000px;
 
-/*@media only screen and (min-width: 920) {
-    html{
-        font-size: 16px;
-    
-    }
-    .baseline-name{
-        font-size: 4.375rem;
-    }
-    .baseline-slogan{
-        font-size: 1.5rem;
-    }
-    .baseline-welcome{
-        font-size: 3.75rem;
-    }
 }
