@@ -35,6 +35,17 @@ img{
    
     color: #fff;
 }
+.card{
+    background-color: rgb(11, 8, 1);
+    box-shadow: goldenrod;
+}
+.card-title{
+    color: goldenrod;
+}
+.list{
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+}
 
 
 .navbar{
@@ -103,7 +114,8 @@ img{
     color: goldenrod;
     
 }
-p{
+p{   
+    font-family: 'Times New Roman', serif;
     
     color: #fff;
 }

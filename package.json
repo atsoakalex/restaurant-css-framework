@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "node": "^19.3.0",
+    "parcel": "^2.8.2"
+  },
+  "name": "restaurant-css-framework",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atsoakalex/restaurant-css-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atsoakalex/restaurant-css-framework/issues"
+  },
+  "homepage": "https://github.com/atsoakalex/restaurant-css-framework#readme"
+}
