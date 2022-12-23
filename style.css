@@ -10,9 +10,17 @@ html{
 body {
     font-family: 'Tangerine', sans-serif;
     background: url(./image/fond.png) no-repeat;
+    font-family: 'Tangerine', sans-serif;
+    background: url(./image/fond.png) no-repeat;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
     
-   
-    height: 100%vh;
+    width: 100%;
+    height: 100%;
     margin: 0;
 
 }
@@ -26,11 +34,7 @@ img{
     max-width: 100%;
     height: auto;
 }
-/*header{
-    
-    background: url(./image/spagethi\ ricota.jpg) center center/cover no-repeat;
-    color: #fff;
-}*/
+
 .navbar{ 
    
     color: #fff;
@@ -121,6 +125,9 @@ p{
 }
 .cover{
     background: url(./image/bandeau.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 .container small{
